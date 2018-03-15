@@ -1,34 +1,22 @@
-/*sqm_template.css
-  MOD-SQM 事件通知E-MAIL內容Style */
-body {
-    font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif, "微軟正黑體", "細明體";
-}
 .contentTitle {
-    font-weight: 900;
+    font-weight: bold;
     font-size: 16px;
     color: #636363;
 }
 .table {
-    width: 100%;
-    max-width: 100%;
-    margin-bottom: 20px;
-    border-collapse:collapse!important;
+    border-collapse:collapse;
 }
-.table-bordered td,
-.table-bordered th{
-    border:1px solid #ddd!important
+.table-bordered td{
+    border:1px solid #ddd;
 }
-.table-striped>tbody>tr:nth-of-type(odd){
-    background-color:#f9f9f9
-}
-table.dataTable4 thead {
-    background: rgba(52, 73, 94, 0.94);
+.table-thead td {
+    background: #34495E;
     color: #ECF0F1;
     text-align: left;
     vertical-align: middle;
     font-size: 14px;
 }
-table.dataTable4 tbody td {
+.table-body td {
     word-break: break-word;
     vertical-align: top;
     font-size: 14px;
