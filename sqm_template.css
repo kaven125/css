@@ -11,11 +11,13 @@
 .table {
     border-collapse:collapse;
     border:2px solid #34495E;
+    background-color: #FFFFFF;
 }
 .table-bordered td{
     border:1px solid #ddd;
 }
 .table-header td {
+    font-weight: bold;
     background: #34495E;
     color: #ECF0F1;
     text-align: left;
@@ -26,10 +28,12 @@
     word-break: break-word;
     vertical-align: top;
     font-size: 14px;
+    color: #465463;
 }
 .table-body2 td {
     word-break: break-word;
     vertical-align: top;
     font-size: 14px;
+    color: #465463;
     background-color:#f4f4f4;
 }
