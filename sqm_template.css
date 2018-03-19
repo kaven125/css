@@ -17,6 +17,7 @@
     border:1px solid #ddd;
 }
 .table-header td {
+    padding: 5px;
     font-weight: bold;
     background: #34495E;
     color: #ECF0F1;
@@ -25,12 +26,14 @@
     font-size: 14px;
 }
 .table-body1 td {
+    padding: 5px;
     word-break: break-word;
     vertical-align: top;
     font-size: 14px;
     color: #465463;
 }
 .table-body2 td {
+    padding: 5px;
     word-break: break-word;
     vertical-align: top;
     font-size: 14px;
