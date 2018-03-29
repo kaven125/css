@@ -40,3 +40,26 @@
     color: #465463;
     background-color:#f4f4f4;
 }
+.item1 {
+	background: rgba(52, 73, 94, 0.94);
+    color: #ECF0F1;
+    font-weight: bold;
+}
+.status-red {
+	background: #FF4444 !important;
+}
+.status-orange {
+	background: #FF9800 !important;
+}
+.status-yellow {
+    background: #FDDE4C !important;
+}
+.status-green {
+	background: #25E34A !important;
+}
+.status-gray {
+    background: #ECEFF1 !important;
+}
+.status-darkgray {    
+    background: #BBB8B8 !important;
+}
