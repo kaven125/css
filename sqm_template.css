@@ -41,9 +41,18 @@
     background-color:#f4f4f4;
 }
 .item1 {
+    padding: 5px;
+    text-align: left;
+    vertical-align: top;
     background: #34495E;
     color: #ECF0F1;
     font-weight: bold;
+    font-size: 14px;
+}
+.itemValue {
+    padding: 5px;
+    color: #465463;
+    font-size: 14px;
 }
 .status-red {
 	background: #FF4444 !important;
